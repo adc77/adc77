@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learning Java and Kotlin
 ------------------------
 
-I'm a CS & Design Undergrad, learning core CS concepts. Really interested in Android Development & building some cool real-life applications; learning kotlin. My plan is to learn Android Development this year and build + contribute through my learnings.
+I'm a CS & Design Undergrad, learning core CS concepts. Interested in Android Development & building some real-life applications; learning kotlin. My plan is to learn Android Development this year and build + contribute for the same.
 
 * 🌍  I'm based in India, New Delhi
 * ✉️  You can contact me at [amandogra2016@gmail.com](mailto:amandogra2016@gmail.com)
@@ -22,7 +22,7 @@ I'm a CS & Design Undergrad, learning core CS concepts. Really interested in And
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/adc77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aman-dogra-103b89216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dograhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/aman-dogra-103b89216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dograhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
