@@ -8,8 +8,7 @@ I'm a CS & Design Undergrad, learning core CS concepts. Interested in Android De
 
 * 🌍  I'm based in India, New Delhi
 * ✉️  You can contact me at [amandogra2016@gmail.com](mailto:amandogra2016@gmail.com)
-* 🧠  I'm learning Kotlin
-* ⚡  Love ⚽
+* 🧠  I'm learning Android Development
 
 ### Skills
 
