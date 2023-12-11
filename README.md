@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aman Dogra
 ==================================================================================================================================
 
-Learning Java and Kotlin
+Learning Android Development and Machine Learning
 ------------------------
 
-I'm a CS & Design Undergrad, learning core CS concepts. Interested in Android Development & building some real-life applications; learning kotlin. My plan is to learn Android Development this year and build + contribute for the same.
+I'm a CS & Design Undergrad, learning core CS concepts. Interested in Android Development + ML to help me build some real life applications.
 
 * 🌍  I'm based in India, New Delhi
 * ✉️  You can contact me at [amandogra2016@gmail.com](mailto:amandogra2016@gmail.com)
-* 🧠  I'm learning Android Development
 
 ### Skills
 
