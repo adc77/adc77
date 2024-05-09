@@ -9,14 +9,6 @@ I'm a CS & Design Undergrad, learning core CS concepts. Interested in Machine Le
 * 🌍  I'm based in India, New Delhi
 * ✉️  You can contact me at [amandogra2016@gmail.com](mailto:amandogra2016@gmail.com)
 
-### Skills
-
-
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
-
 
 ### Socials
 
