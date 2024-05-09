@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learning Android Development and Machine Learning
 ------------------------
 
-I'm a CS & Design Undergrad, learning core CS concepts. Interested in Android Development + ML to help me build some real life applications.
+I'm a CS & Design Undergrad, learning core CS concepts. Interested in Machine Learning, Deep Learning and Generative AI.
 
 * 🌍  I'm based in India, New Delhi
 * ✉️  You can contact me at [amandogra2016@gmail.com](mailto:amandogra2016@gmail.com)
