@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aman Dogra
 ==================================================================================================================================
 
-Learning Android Development and Machine Learning
+Learning Machine Learning and Deep Learning...
 ------------------------
 
 I'm a CS & Design Undergrad, learning core CS concepts. Interested in Machine Learning, Deep Learning and Generative AI.
